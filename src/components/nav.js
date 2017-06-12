@@ -10,36 +10,15 @@ import Entypo from 'react-native-vector-icons/Entypo';
 export default class Nav extends Component {
   render() {
     return (
-      const styles = this.props.style;
-
       <View style={styles.container}>
-        <StyleProvider style={nativeTheme}>
-          <Button dark iconleft onPress={Actions.logo} btnMargin>
+          <Button dark iconleft onPress={Actions.logo}>
             <Entypo name='fingerprint' size={20} color='white' />
             <Text> SET</Text>
           </Button>
-          <Button dark iconleft onPress={Actions.logo} btnMargin>
-            <Entypo name='fingerprint' size={20} color='white' />
-            <Text> SET</Text>
-          </Button>
-          <Button dark iconleft onPress={Actions.logo} btnMargin>
-            <Entypo name='fingerprint' size={20} color='white' />
-            <Text> SET</Text>
-          </Button>
-        </StyleProvider>
       </View>
     );
   }
 }
-
-const nativeTheme = {
-    'NativeBase.Button': {
-      .btnMargin: {
-        height: 70,
-        borderRadius: 35,
-      }
-    }
-};
 
 const styles = StyleSheet.create({
   container: {
