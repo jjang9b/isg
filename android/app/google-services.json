@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795802346359",
+    "project_id": "isg-native"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795802346359:android:b6025cb86cccab7e",
+        "android_client_info": {
+          "package_name": "com.isg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795802346359-kfqibefq6gatq876cf0o127aialqd1dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isg",
+            "certificate_hash": "81f0ab4f31bd1846aa514025f2dff18df11d7fce"
+          }
+        },
+        {
+          "client_id": "795802346359-8aa2jsgubrca3coc3on11a1pt17iqn8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo7g_is5vCwSu_5e60KwBvTpTwwQb_nm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
