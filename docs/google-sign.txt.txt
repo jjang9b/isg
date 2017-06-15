@@ -1,0 +1,16 @@
+https://github.com/devfd/react-native-google-signin/blob/master/android-guide.md
+
+app-name : isg-native
+package : com.isg
+Android Signing Certificate SHA-1 
+81:F0:AB:4F:31:BD:18:46:AA:51:40:25:F2:DF:F1:8D:F1:1D:7F:CE
+
+
+# Could Not Expand ZIP
+삭제 C:\Users\user\.gradle\caches\modules-2\files-2.1\com.facebook.fresco\imagepipeline\1.0.1\78e637099db724c3963df4515d014c9d7232469e\
+
+# 240 자리 너무 긴 파일 경로.
+
+allprojects {
+	buildDir = "E:/2.project/react-native/isg/android"
+}
